@@ -232,3 +232,4 @@ class SitesInformation:
         Length of sites object.
         """
         return len(self.sites)
+
